@@ -1,0 +1,51 @@
+1.Getting started with CSS
+2.css syntax
+3.Style Tag, Different Types of css: Inline css, Internal or embedded css, External CSS
+4.css selectors for beginners (1. the css element selector,id selector, class selector, universal selector, 
+grouping selector)
+5.css colors
+6.css backgrounds(1.Background Color, 2.Background Image, 3. Background Repeat, 4. Background Shorthand)
+7.css borders(1.Border style, 2.Border width, 3. Border color, 4. Border sides 5.Border shorthand, 6. Rounded Borders)
+8.css margin padding
+9. css box model
+
+=================================================
+
+10. css text / font formatting-align, font-size, font-family, font-weight,text-decoration,text-transformation, text spacing
+11. css display / visibility/display inline/display block
+12. Display inline-block.different behavior of display: inline, display: inline-block and display: block
+13.Center elements horizontally and vertically
+14.css position-static,relative,absolute, fixed, sticky
+15.Positioning text in an image
+18. css z-index, without z-index
+19. css overflow-visible, hidden, scroll,auto
+20. css float
+21. css combinator
+22.css Pseudo-class
+23. css Pseudo-elements
+24. css opacity
+25.css attr selectors
+26.css forms styling
+27.css counters
+28.css units-Absolute, Relative
+29. css specificity
+30. css the !important rule
+31.css math functions calc() max() min()
+32. css variables var() function, overriding variables
+33. css variables and javascript
+
+
+Bite sized Projects:
+1.vertical navigation bar
+2.horizontal navigation bar
+3.Dropdown
+4.
+
+
+
+13.Difference between display:none and visibility: hidden
+14.Using CSS together with JavaScript to show content
+
+
+
+7.Cascading Order

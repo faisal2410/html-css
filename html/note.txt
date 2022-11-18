@@ -1,0 +1,9 @@
+Basic html structure head body title link meta tag
+Different types of heading, strong tag
+Tags,attribute, anchor,href,navigate
+Display images, online images, local images, folder image fav icon
+List, container tag, ordered list, unordered list 
+Button input input types: text password  checkbox radio number file form button button types 
+div small br hr
+
+
